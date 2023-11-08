@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: linear-gradient(to right,#a2cae8,#7dbae8,#4781ad);
+	background-image: linear-gradient(to right,#7dbae8,#4781ad);
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -15,23 +15,23 @@
 	color: white;
 	font-size:20px;
 	font-weight: bolder;
-	transition-duration: 0.5s;
+	transition-duration: 1s;
 
 }
 .navmenu:hover{
-	color: black;
+	color: dimgray;
 }
 .myname{
-	font-size: 30px;
+	font-size: 25px;
 /*	as*/
 	font-family: Arial Black;
 	color: royalblue;
-	text-shadow: 0px 0px 3px white;
+	text-shadow: 1px 1px 4px white;
 	font-variant: small-caps;
 }
 .sect
 {
-/*	border: 2px solid black;*/
+/*	border: 2px black;*/
 	height: 500px;
 	/*display: flex;
 	justify-content: center;
@@ -64,23 +64,23 @@ html{
 }
 .about{
 	background-color: #dae0da;
-	height: 400px;
+	height: 500px;
 }
 .aboutdata
 {
-	margin-top: 25px;
+	margin-top: 30px;
 }
 .cobj
 {
 	font-size: 25px;
 	text-align: justify;
 	text-indent: 20%;
-	color: grey;
+	color: orangered;
 }
 .section_head
 {
 	font-size: 50px;
-	color: royalblue;
+	color: yellow;
 	font-variant: small-caps;
 	font-family: Arial Black;
 }
@@ -91,5 +91,5 @@ html{
 {
 	transform: scale(1.4);
 	border-radius: 50px;
-	box-shadow: 0px 0px 20px royalblue;
-}
+	box-shadow: 0px 0px 20px yellowgreen;
+}              
