@@ -19,13 +19,13 @@
 
 }
 .navmenu:hover{
-	color: dimgray;
+	color: palevioletred;
 }
 .myname{
 	font-size: 25px;
 /*	as*/
 	font-family: Arial Black;
-	color: royalblue;
+	color: royagreen;
 	text-shadow: 1px 1px 4px white;
 	font-variant: small-caps;
 }
